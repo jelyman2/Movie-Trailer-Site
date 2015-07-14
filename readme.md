@@ -1,5 +1,5 @@
 # Movie Trailer Site
-** An example project for the Udacity Full Stack Developer Nanodegree **
+__An example project for the Udacity Full Stack Developer Nanodegree__
 
 ## How it works
 
