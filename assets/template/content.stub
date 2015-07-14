@@ -1,0 +1,9 @@
+<div class="col-md-6 col-lg-4 movie-tile text-center">
+    <div data-trailer-youtube-id="{trailer_youtube_id}" data-toggle="modal" data-target="#trailer" class="movie-block">
+    <img src="{poster_image_url}" width="220" height="342">
+    <h2>{movie_title}</h2>
+    </div>
+    <strong>Director: </strong>{director}<br />
+    <strong>Release Date (US): </strong>{release_date}<br />
+    <a href="{imdb_link}" target="_blank">Link</a> to IMDB Page
+</div>
