@@ -1,5 +1,5 @@
 # Movie Trailer Site
-** An example project for the Udacity Full Stack Developer Nanodegree
+** An example project for the Udacity Full Stack Developer Nanodegree **
 
 ## How it works
 
@@ -8,7 +8,9 @@ In order to run this app, all you need to do is executte site.py in one of two w
 * `python site.py`
 * `./site.py`
 
-Both will work as I've made sure to mark the necessary environment in `site.py`
+Both will work as I've made sure to mark the necessary environment in `site.py`.
+
+Running `site.py` will generate and launch an `.html` file called `fresh_tomatoes.html`, displaying our movie data and posters. Movie trailers will appear when the movie poster or title is clicked on.
 
 ## Extras
 
