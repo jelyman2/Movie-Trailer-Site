@@ -3,7 +3,7 @@
 
 ## How it works
 
-In order to run this app, all you need to do is executte site.py in one of two ways:
+In order to run this app, all you need to do is execute site.py in one of two ways:
 
 * `python site.py`
 * `./site.py`
