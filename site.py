@@ -83,7 +83,7 @@ def build_tiles(movies):
 
 def open_movies_page(movies):
     # Create or overwrite the output file
-    output_file = open('fresh_tomatoes.html', 'w')
+    output_file = open('trailers.html', 'w')
 
     # Replace the placeholder for the movie tiles with the actual
     # dynamically generated content
